@@ -19,7 +19,7 @@ As an excellent communicator, I'm adept at translating complex technical concept
 - SQL
 - JS
 #### Other
-Spring Boot, .NET, Maven, Docker, CI/CD, OpenShift, GIT, Azure, Object Oriented Programming, RESTful Web Services, MongoDB, Microservice Architecture
+Spring Boot, .NET, Maven, Docker, CI/CD, OpenShift, GIT, Azure, Object Oriented Programming, RESTful Web Services, MongoDB, Microservice Architecture, Data Structures and Algorithems, Big O notation
 
 ## Experience
 ### Software Developer - Thrivent - Jul 2021-Present
