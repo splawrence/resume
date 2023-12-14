@@ -12,7 +12,7 @@ I am a results-driven software engineer with 6+ years of experience in full-stac
 - Built the data integration processes to enable the launch of Thrivent ETFs
 - Spearheaded continuous improvement initiatives, successfully eliminating duplicate services and consolidating logic to significantly reduce redundant code and operational costs.
   
-#### Skills
+Skills:
 Java, Python, TypeScript, HTML, CSS, Vue.js, MongoDB, MS SQL Server, Spring Boot, Git, Azure, Kubernetes, Terraform
 
 ### Associate Software Developer | Thrivent, Appleton, WI | May 2019-Jul 2021
@@ -20,8 +20,8 @@ Java, Python, TypeScript, HTML, CSS, Vue.js, MongoDB, MS SQL Server, Spring Boot
 - Built full-stack applications to enable accurate and timely calculation of Fund Accounting Expense data
 - Orchestrated performance enhancements by implementing Elastic APM, leveraging performance data to inform system decisions, and subsequently implementing improvements for optimal efficiency.
 - Developed APIs integrate with vendor systems ensuring robust and secure data exchange
-
-#### Skills
+  
+Skills:
 Java, Python, TypeScript, HTML, CSS, Vue.js, MongoDB, MS SQL Server, Spring Boot, Git, Azure, Kubernetes, Terraform
 
 ### Associate Data Integration Engineer - Thrivent - Sep 2017-May 2019
@@ -30,7 +30,7 @@ Java, Python, TypeScript, HTML, CSS, Vue.js, MongoDB, MS SQL Server, Spring Boot
 - Provided on-call support for critical software applications, including Thrivent Information Warehouse, ensuring uninterrupted business operations.
 - Assisted in the validation, maintenance, and project work for supported systems, contributing to system optimization and reliability.
 
-#### Skills
+Skills: 
 Informatica PowerCenter, IBM DB2, Oracle, MS SQL Server, analytical, production support
 
 ## Education
