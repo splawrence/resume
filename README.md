@@ -1,5 +1,5 @@
 # Stephen Lawrence | Software Developer | Thrivent
-**Phone:** 1-920-574-1047 | **Email:** <sp_lawrence@outlook.com> | **LinkedIn:** <https://bit.ly/2SCn0VO> | **GitHub:** <https://github.com/splawrence>
+**Phone:** 1-920-574-1047 | **Email:** <living202@outlook.com> | **LinkedIn:** <https://bit.ly/2SCn0VO> | **GitHub:** <https://github.com/splawrence>
 
 ## Summary
 I am a purposeful software engineer with 6+ years of experience in full-stack development. I have proven expertise in designing, implementing, testing, and maintaining software solutions. I play a pivotal role in technical design and development efforts, delivering technology solutions that add substantial business value and improve time-to-market efficiency. I apply strong analytical skills to assess user needs, and design effective solutions aligned with project requirements.
