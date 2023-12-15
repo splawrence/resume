@@ -7,7 +7,7 @@ I am a purposeful software engineer with 6+ years of experience in full-stack de
 ## Experience
 ### Software Developer | Thrivent, Appleton, WI | Jul 2021-Present
 
-- Built APIs to enable Private Equity in Asset Allocation Funds
+- Built APIs to distribute accurate Financial reporting data
 - Built full-stack applications to enable accurate and timely calculation of Fund Accounting Expense data
 - Built the data integration processes to enable the launch of Thrivent ETFs
 - Spearheaded continuous improvement initiatives, successfully eliminating duplicate services, and consolidating logic to significantly reduce redundant code and operational costs.
