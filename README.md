@@ -2,42 +2,43 @@
 **Phone:** 1-920-574-1047 | **Email:** <living202@outlook.com> | **LinkedIn:** <https://bit.ly/2SCn0VO> | **GitHub:** <https://github.com/splawrence>
 
 ## Summary
-I am a purposeful software engineer with 6+ years of experience in full-stack development. I have proven expertise in designing, implementing, testing, and maintaining software solutions. I play a pivotal role in technical design and development efforts, delivering technology solutions that add substantial business value and improve time-to-market efficiency. I apply strong analytical skills to assess user needs, and design effective solutions aligned with project requirements.
+I am a dynamic and results-oriented software engineer with over 6 years of experience engineering scalable full-stack software applications. I have demonstrated proficiency in architecting, engineering, and deploying robust software solutions. I am adept at driving projects from conception to deployment, enhancing business operations, and reducing time-to-market. I am skilled in analyzing user requirements and crafting highly effective solutions that align with business goals. I am enthusiastic about technology innovation and continuous learning, and I am keen to connect and explore how I can contribute to your technology endeavors.
 
 ## Experience
 ### Software Developer | Thrivent, Appleton, WI | Jul 2021-Present
 
-- Built APIs to distribute accurate Financial reporting data
-- Built full-stack applications to enable accurate and timely calculation of Fund Accounting Expense data
-- Built the data integration processes to enable the launch of Thrivent ETFs
-- Spearheaded continuous improvement initiatives, successfully eliminating duplicate services, and consolidating logic to significantly reduce redundant code and operational costs.
+- Architected and engineered scalable full-stack cloud native applications to streamline and ensure accuracy in Fund Accounting Expense which manages expenses for Thrivent Mutual Fund's $25.1 billion in assets.
+- Works closely with QA’s and dedicated Product Management team to build secure and performant software.
+- Developed and implemented APIs for delivering precise Financial reporting data.
+- Built software critical for the successful launch and operation of Thrivent ETFs which currently have more than $145 million in assets.
+- Led continuous improvement initiatives, achieving significant codebase optimization and CPU, Memory, and Network cost reduction.
   
-Skills:
-Java, Python, TypeScript, HTML, CSS, Vue.js, MongoDB, MS SQL Server, Spring Boot, Git, Azure, Kubernetes, Terraform
+**Skills:**
+Java, Python, TypeScript, HTML, CSS, Vue.js, React, MongoDB, MS SQL Server, Advanced SQL, Spring, Spring Boot, Git, Azure, Kubernetes, Terraform, Object Oriented Programming, Hibernate, REST Services, Software Development Lifecycle, Communication, Agile Methodologies
 
 ### Associate Software Developer | Thrivent, Appleton, WI | May 2019-Jul 2021
 
-- Built full-stack applications to enable accurate and timely calculation of Fund Accounting Expense data
-- Orchestrated performance enhancements by implementing Elastic APM, leveraging performance data to inform system decisions, and subsequently implementing improvements for optimal efficiency.
-- Developed APIs integrate with vendor systems ensuring robust and secure data exchange
+- Engineered scalable full-stack cloud native applications to streamline and ensure accuracy in Fund Accounting Expense which manages expenses for Thrivent Mutual Fund's $25.1 billion in assets.
+- Orchestrated and executed performance optimization strategies using Elastic APM, thereby enhancing system efficiency and decision-making.
+- Crafted and maintained APIs for secure and robust data exchange with external vendor systems.
   
-Skills:
-Java, Python, TypeScript, HTML, CSS, Vue.js, MongoDB, MS SQL Server, Spring Boot, Git, Azure, Kubernetes, Terraform
+**Skills:**
+Java, Python, TypeScript, HTML, CSS, Vue.js, React, MongoDB, MS SQL Server, Advanced SQL, Spring, Spring Boot, Git, Azure, Kubernetes, Terraform, Object Oriented Programming, Hibernate, REST Services, Software Development Lifecycle, Communication, Agile Methodologies
 
-### Associate Data Integration Engineer - Thrivent - Sep 2017-May 2019
+### Associate Data Integration Engineer | Thrivent | Sep 2017-May 2019
 
-- Led successful decommission efforts, contributing to $3 million in cost savings for Thrivent.
-- Provided on-call support for critical software applications, including Thrivent Information Warehouse, ensuring uninterrupted business operations.
-- Assisted in the validation, maintenance, and project work for supported systems, and designs to system optimization and reliability.
+- Directed decommissioning projects, contributing to a $3 million cost reduction for Thrivent.
+- Provided crucial on-call support for essential software applications, including Thrivent Information Warehouse, ensuring seamless business continuity.
+- Involved in validation, maintenance, and project initiatives aimed at enhancing system performance and reliability.
 
-Skills: 
-Informatica PowerCenter, IBM DB2, Oracle, MS SQL Server, analytical, production support
+**Skills:** 
+Informatica PowerCenter, IBM DB2, Oracle, MS SQL Server, analytical skills, production support
 
 ## Education
 ### AAS - Software Development - Fox Valley Tech
-- Built web applications and APIs using ASP.NET, TFS, deployed to Azure using Agile method
-- Built IOS and Android mobile apps using Xamarin and Swift
+- Developed object oriented web applications and APIs using ASP.NET, TFS; deployed to Azure using Agile methodologies.
+- Created iOS and Android mobile applications using Xamarin and Swift.
+
 ### BS - Information Science & Technology - University Wisconsin-Milwaukee (in progress)
-- Built console applications using Python
-- Built full stack applications using LAMP stack (PHP)
-- Systems analysis and design
+- Programmed console applications in Python.
+- Developed full-stack applications using the LAMP stack (PHP), focusing on systems analysis and design.
